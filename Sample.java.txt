@@ -1,0 +1,7 @@
+class Sample
+{
+ Public static void main(String s[])
+ {
+  System.ut.println("Hello");
+ }
+}
